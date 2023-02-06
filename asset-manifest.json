@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-facts/static/css/main.ace5bfa7.css",
+    "main.js": "/React-facts/static/js/main.7671dbfd.js",
+    "static/media/react-image.png": "/React-facts/static/media/react-image.04dc60f505fa7d4b6dab.png",
+    "static/media/react-logo.png": "/React-facts/static/media/react-logo.ef20e673b9282f8f30fd.png",
+    "index.html": "/React-facts/index.html",
+    "main.ace5bfa7.css.map": "/React-facts/static/css/main.ace5bfa7.css.map",
+    "main.7671dbfd.js.map": "/React-facts/static/js/main.7671dbfd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ace5bfa7.css",
+    "static/js/main.7671dbfd.js"
+  ]
+}
